@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gelius24
-- 👀 I’m interested in web devloppement, software devloppement and hacking (White Hat)
-- 🌱 I’m currently learning web devloppement with react
+- 👀 I’m interested in web devloppement, software devloppement and hacking (as a White Hat)
+- 🌱 I’m currently learning web devloppement with Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 

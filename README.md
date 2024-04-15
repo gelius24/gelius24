@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Woody Gelius
 - 👀 I’m interested in web devloppement, software devloppement and hacking (as a White Hat)
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning web devloppement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
